@@ -41,14 +41,13 @@ body{
 	background-image: url('https://images.wallpaperscraft.ru/image/single/restoran_banket_oformlenie_stoly_stulya_dizayn_39238_1920x1080.jpg');
 	height: 700px;		
 	width: auto;
-    background-repeat: no-repeat;
-    background-attachment: scroll;
-    /*background-size: 100% 100%;*/
-    background-position: center;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    	background-repeat: no-repeat;
+    	background-attachment: scroll;
+ 	background-position: center;
+    	margin: 0;
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
 }
 
 h1{
@@ -64,7 +63,6 @@ h1{
 .ending p {
 	font-size: 60px;
 	color: whitesmoke;
-	/*border-radius: 10px;*/
 	margin: 5%;
 	text-align: right;
 	font-family: 'Whisper', cursive;
@@ -87,7 +85,6 @@ h3 {
 .menu h2 {
 	font-size: 40px;
 	color: floralwhite;
-	/*border-radius: 10px;*/
 	margin: 3% 1%;
 	text-align: inherit;
 }
@@ -104,21 +101,6 @@ li {
 	color: #ffdead;
 	transition: color 1s, font-size 1.5s;
 }
-
-
-
-/*.menu li img {
-	margin: 0;
-	width: 0px;
-	height: 0px;
-	background-position: center;
-	transition: width 2s, height 2s;
-}*/
-
-/*.menu li img:hover img {
-	width: 200px;
-	height: 200px;
-}*/
 
 .menuli {
 	display: inline-block;
@@ -160,9 +142,6 @@ li {
 	cursor: pointer;
 }
 
-
-
-
 h2 {
 	color: #ffeccf;
 	font-size: 40px;
@@ -175,7 +154,6 @@ h2 {
 	list-style: none;
 	margin-left: 55px;
 }
-
 
 .contacts li {
 	color: #fcefdc;
@@ -197,14 +175,6 @@ h2 {
 #homep {
 	visibility: hidden;
 }
-
-/*.gotop{
-	object-position: 120%, 95%;
-	position: absolute;
-	right: 5%;
-	bottom: 5%;
-	
-}*/
 
 #gMap{
 	display: block;
