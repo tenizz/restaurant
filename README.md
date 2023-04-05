@@ -6,4 +6,4 @@ Try it: https://tenizz.github.io/restaurant/
 
 
  ![This is a screenshot of the website](/Screen%20Shot%20Flowers%20version%20001.png)
- ![This is a a video of the website](/Screen%20Recording%202023-04-05.mov)
+ ![This is a a video of the website](/Screen%20Recording%202023-04-05%20at%2012.15.44%20AM.mov)
